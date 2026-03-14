@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Sample 1 - Safe Email",
+        "sender": "professor.smith@university.edu",
+        "subject": "CS101 Assignment 3 Grades",
+        "body": "Dear Student,\n\nThe grades for Assignment 3 have been posted on the portal. Please review them and let me know if you have any questions.\n\nBest regards,\nProf. Smith"
+    },
+    {
+        "name": "Sample 2 - Suspicious Email",
+        "sender": "marketing@newsletter.com",
+        "subject": "Special Offer Inside!!!",
+        "body": "Hi there, we have a great promo for you! Check out our new collection."
+    },
+    {
+        "name": "Sample 3 - Spam Email",
+        "sender": "winner@freeprize-claim.xyz",
+        "subject": "URGENT: YOU ARE A WINNER!!!",
+        "body": "CONGRATULATIONS!!! You have been randomly selected as the WINNER of $10,000 cash prize! Claim your prize IMMEDIATELY.\n\nClick here: http://bit.ly/claimmoney\n\nHurry, this offer is valid for 24 hours only. DO NOT MISS THIS OPPORTUNITY!"
+    },
+    {
+        "name": "Sample 4 - Phishing Attempt",
+        "sender": "security-alert@paypal-update-account.com",
+        "subject": "Action Required: Update your billing info",
+        "body": "Dear customer, your account has been temporarily suspended due to suspicious activity. Please click the link below to verify your identity.\n\nhttp://tinyurl.com/verify-acc\n\nFailure to do so will result in account deletion."
+    }
+]
